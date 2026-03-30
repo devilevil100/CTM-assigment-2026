@@ -4,7 +4,7 @@ import numpy as np
 import random
 import os
 
-flag = "lactf{REDACTED}"
+flag = "CSeC{REDACTED}"
 
 qr = segno.make(flag, mode='byte', error='L', boost_error=False, version=7)
 qr.save("temp.txt", border=0)

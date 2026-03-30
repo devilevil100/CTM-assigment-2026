@@ -7,18 +7,17 @@
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Flag Formats](#flag-formats)
 - [Rules & Guidelines](#rules--guidelines)
 
 ---
 
 ## Overview
 
-This repository contains **5 challenges** spanning the core pillars of CTF competitions. Each challenge tests a different skillset — from RSA-style cryptanalysis to network forensics, QR code internals, social engineering via AI, and web exploitation.
+This repository contains **Challenges** spanning the core pillars of CTF competitions. Each challenge tests a different skillset — from RSA-style cryptanalysis to network forensics, QR code internals, social engineering via AI, and web exploitation.
 
 | Category   | Challenge Name         | Difficulty   |
 |------------|------------------------|--------------|
-| Crypto     | PolyPrimes             | 🟡 Medium    |
+| Crypto     | PolyPrimes             | ‼️ Hard      |
 | Forensics  | Bald Boy               | 🟡 Medium    |
 | Misc       | IdentiTy Parts of QR   | 🟡 Medium    |
 | Social     | Are You The Rizzler?   | 🟢 Easy–Med  |
